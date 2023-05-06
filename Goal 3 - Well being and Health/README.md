@@ -13,11 +13,11 @@
 ---
 
 - **3.1. Maternal mortality**
-    - **By 2030, reduce the global maternal mortality ratio to less than 70 per 100 000 live births.
+    - **By 2030, reduce the global maternal mortality ratio to less than 70 per 100 000 live births.**
     
-    *Increase services provided to the mothers for child growth in better environment and with sustainable education for the best motherhood enhancements***
+    **Increase services provided to the mothers for child growth in better environment and with sustainable education for the best motherhood enhancements**
 - **3.2. Neonatal and child mortality**
-    - **By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1000 live births and under-5 mortality to at least as low as 25 per 1000 live births.
+    - **By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1000 live births and under-5 mortality to at least as low as 25 per 1000 live births.**
     
     *******************************Provide better hospitable services and many other services to increase the mortality of the newborns*********************************
 - **3.3. Infectious diseases**
@@ -25,27 +25,27 @@
     
     **********************************************Provide better hospitals and services for cheaper************************************************
 - **3.4. Noncommunicable diseases**
-    - **By 2030, reduce by one third premature mortality from noncommunicable diseases through prevention and treatment, and promote mental health and well-being.
+    - **By 2030, reduce by one third premature mortality from noncommunicable diseases through prevention and treatment, and promote mental health and well-being.**
     
     *******************************************Produce better prevention wearing materials*********************************************
 - **3.5. Substance abuse**
-    - **Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol.
+    - **Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol.**
     
     ***************************Strengthen the economic and government regulations and the prevention of the production of Demerit goods*****************************
 - **3.6. Road traffic**
-    - **By 2020, halve the number of global deaths and injuries from road traffic accidents.
+    - **By 2020, halve the number of global deaths and injuries from road traffic accidents.**
     
     ***********************Provide better security regulations and provide better roads safety measures*************************
 - **3.7. Sexual and reproductive health**
-    - **By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes.
+    - **By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes.**
     
     **********Provide better and cheaper access of hospitals************
 - **3.8. Universal health coverage**
-    - **Achieve universal health coverage, including financial risk protection, access to quality essential health-care services, and access to safe, effective, quality and affordable essential medicines and vaccines for all.
+    - **Achieve universal health coverage, including financial risk protection, access to quality essential health-care services, and access to safe, effective, quality and affordable essential medicines and vaccines for all.**
     
     ***Provide educational and hospital institutions*****
 - **3.9. Environmental health**
-    - **By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination.
+    - **By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination.**
     
     ***************Provide better health regulations and services*****************
 

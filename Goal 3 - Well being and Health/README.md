@@ -21,7 +21,7 @@
     
     *******************************Provide better hospitable services and many other services to increase the mortality of the newborns*********************************
 - **3.3. Infectious diseases**
-    - **By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases, and combat hepatitis, waterborne diseases and other communicable diseases.
+    - **By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases, and combat hepatitis, waterborne diseases and other communicable diseases.**
     
     **********************************************Provide better hospitals and services for cheaper************************************************
 - **3.4. Noncommunicable diseases**
